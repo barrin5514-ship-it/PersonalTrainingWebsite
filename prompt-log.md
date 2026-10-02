@@ -271,3 +271,21 @@ Add the supplied cleaned photography throughout the existing three-section websi
 - Added meaningful alt text, explicit image dimensions, lazy loading where appropriate, and responsive full-proportion styling.
 - Verified all image paths and checked the finished desktop and mobile layouts.
 
+---
+
+## Prompt 4
+
+### Prompt used
+
+Push the completed personal-training website updates to its existing GitHub repository. Before pushing, verify all photos, desktop and mobile layouts, existing content and functionality, cleaned-image integrity, Git status, repository hygiene, media-size limits, and the final diff. Commit with the message `Add optimized training and MMA website media`, push without rewriting history, and confirm the local branch matches the remote branch.
+
+### Purpose of the prompt
+
+Perform the final release audit and safely publish the completed media update to the existing GitHub repository.
+
+### What was changed or created
+
+- Recorded the final verification and publication request.
+- Rechecked image paths, responsive layouts, existing functionality, repository hygiene, and GitHub file-size compatibility.
+- Prepared the verified media update for a normal, non-force push to the current branch.
+
