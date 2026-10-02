@@ -267,6 +267,26 @@ h1 { margin-bottom: 1.5rem; font-size: clamp(4rem, 10vw, 8.8rem); letter-spacing
 .training-card p { margin: 0; color: #aeb4af; line-height: 1.5; }
 .training-card:hover p { color: #303531; }
 
+/* Training footage uses native controls and preserves each video's full frame. */
+.training-card--video {
+  display: flex;
+  flex-direction: column;
+}
+
+.training-card--video h3 { margin-top: 3rem; }
+
+.training-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: block;
+  margin-top: 1.5rem;
+  background: #050706;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  object-fit: contain;
+}
+
+.training-card:hover .training-video { border-color: rgba(17, 21, 19, 0.4); }
+
 /* ------------------------------
    6. Booking section and form
    ------------------------------ */
@@ -416,6 +436,7 @@ h1 { margin-bottom: 1.5rem; font-size: clamp(4rem, 10vw, 8.8rem); letter-spacing
   .training-grid { grid-template-columns: 1fr; }
   .training-card { min-height: auto; }
   .training-card h3 { margin-top: 3rem; }
+  .training-video { margin-top: 1.25rem; }
   .booking-form { grid-template-columns: 1fr; box-shadow: 8px 8px 0 var(--accent); }
   .form-field, .full-width { grid-column: 1; }
   .site-footer { flex-direction: column; }

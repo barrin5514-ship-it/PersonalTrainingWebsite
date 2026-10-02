@@ -233,3 +233,22 @@ Build Version 1 of a simple personal coaching and training website with a tightl
 
 [Summarize the result.]
 
+---
+
+## Prompt 2
+
+### Prompt used
+
+Extract this ZIP and add the four videos to my personal-training website. Keep the existing design and content intact. Place each video where it best supports the personal training, boxing, Muay Thai, or MMA sections. Optimize loading, use responsive video players, keep audio off until the visitor presses play, and verify the website on desktop and mobile before finishing. Do not change or regenerate anyone’s appearance.
+
+### Purpose of the prompt
+
+Add the supplied training footage to the existing Training section without changing the site's three-section structure, design, or written content.
+
+### What was changed or created
+
+- Added all four original MP4 files without modifying the footage.
+- Placed one video in each of the Personal Training, Boxing, Muay Thai, and MMA cards.
+- Added responsive native video players with metadata-only preloading and click-to-play audio behavior.
+- Verified the updated layout at desktop and mobile sizes.
+
