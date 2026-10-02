@@ -252,3 +252,22 @@ Add the supplied training footage to the existing Training section without chang
 - Added responsive native video players with metadata-only preloading and click-to-play audio behavior.
 - Verified the updated layout at desktop and mobile sizes.
 
+---
+
+## Prompt 3
+
+### Prompt used
+
+Extract the uploaded photo ZIP and add the cleaned photos to my existing personal-training website. Inspect the current website before making changes; preserve the existing design, text, navigation, colors, functionality, and original cleaned files; distribute the photos naturally throughout Bio, Training, and Book a Session; match each image to the most relevant coaching or training content; preserve original proportions and important action; do not alter anyone's appearance or reintroduce social-media interface elements; use descriptive filenames, meaningful alt text, lazy loading, and optimized delivery; keep the existing HTML, CSS, and JavaScript structure; verify every image path; and test desktop and mobile layouts.
+
+### Purpose of the prompt
+
+Add the supplied cleaned photography throughout the existing three-section website without changing its identity, content, or functionality.
+
+### What was changed or created
+
+- Created separate high-quality web copies with descriptive filenames while leaving every source PNG unchanged.
+- Added a Bio portrait, context-matched Training photos, and a coach-and-athlete Booking image.
+- Added meaningful alt text, explicit image dimensions, lazy loading where appropriate, and responsive full-proportion styling.
+- Verified all image paths and checked the finished desktop and mobile layouts.
+
